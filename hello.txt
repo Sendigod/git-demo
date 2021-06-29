@@ -12,9 +12,6 @@ hello sorrymaker!!!
 hello sorrymaker!!!
 hello sorrymaker!!!
 hello sorrymaker!!!
-<<<<<<< HEAD
 hello sorrymaker!!!11111111
-=======
 hello sorrymaker!!!2222222
->>>>>>> hot-fix
 
